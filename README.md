@@ -3,7 +3,7 @@
 
 puclic class Hello{
   public static void(string[] args){
-    System.out.println("Hello!");
+    System.out.println("nice to meet you!");
   }
 
 }
